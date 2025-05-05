@@ -68,8 +68,3 @@ A line graph compares:
 - Actual S&P 500 Prices (Blue)
 - Predicted S&P 500 Prices (Red)
 
-Using `ggplot2` for a clean and informative visual.
-
----
-
-## 📂 Folder Structure
